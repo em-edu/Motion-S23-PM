@@ -1,0 +1,77 @@
+#wrapper {
+    width: 800px;
+    height: 800px;
+    margin: 0 auto;
+    position: relative;
+    padding-top: 100px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+    line-height: 1.66667rem;
+}
+
+#name{
+    color: var(--green);
+}
+
+/*******
+   Quiz
+   *******/
+
+.innerwrap {
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.instructions {
+    background-color: var(--white);
+    padding-bottom:100px;
+}
+
+.part{
+    margin-bottom: 3em;
+}
+
+li {
+    margin: 10px;
+}
+
+
+.graph {
+    position: relative;
+    width: 400px;
+    height: 350px;
+    background-color: #ccc;
+    background-image: linear-gradient(white 2px, transparent 2px),
+        linear-gradient(90deg, white 2px, transparent 2px),
+        linear-gradient(rgba(255, 255, 255, .3) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, .3) 1px, transparent 1px);
+    background-size: 50px 50px, 50px 50px;
+    background-position: -2px -2px, -2px -2px;
+}
+
+.box {
+    width: 48px;
+    height: 48px;
+    position: absolute;
+}
+
+.red {
+    background: red;
+    /* this transform must stay */
+    transform: translate(150px, 150px);
+}
+
+.blue {
+    background: blue;
+    /* this transform must stay */
+    transform: translate(200px, 150px);
+}
+
+.green {
+    width: 398px;
+    height: 10px;
+    position: absolute;
+    background: green;
+    bottom: -10px;
+}
