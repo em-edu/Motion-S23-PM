@@ -1,7 +1,7 @@
 import { gsap } from "gsap";
 
 
-// Init or Sets
+// Init
 gsap.set("#hero h1 span",{alpha:0.25});
 
 
