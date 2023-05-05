@@ -14,7 +14,7 @@ gsap.set("#hero h1 span",{alpha:0.25});
 //tl.seek(1.5);
 //tl.reverse();
 
-let trailBtn = document.querySelector("#trail-btn");
+let trailBtn = document.querySelector("#trails-btn");
 //button timeline
 let heroBtnTl = gsap.timeline({paused:true});
 heroBtnTl.to("#trails-btn",{duration:0.25, scale:2, backgroundColor:"#881d02"}, "myLabel")
@@ -24,9 +24,14 @@ heroBtnTl.to("#trails-btn",{duration:0.25, scale:2, backgroundColor:"#881d02"}, 
 ;
 
 //button listeners
-trailBtn.addEventListener("mouseover", function(){
-    heroBtnTl.play();
-})
+// trailBtn.addEventListener("mouseover", function(){
+//     heroBtnTl.play();
+// })
+
+trailBtn.addEventListener("mouseover", () => {
+    console.log("hello");
+    //heroBtnTl.play();
+});
 
 
 function heroAnimation(){
