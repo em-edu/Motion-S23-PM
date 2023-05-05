@@ -17,44 +17,13 @@
       "oAP" : "\/.gitattributes",
       "oF" : 0
     },
-    "\/assets\/daniel-leone-g30P1zcOzXo-unsplash.jpg" : {
-      "ft" : 16384,
-      "iS" : 833978,
-      "jF" : 0,
+    "\/build\/.gitignore" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/daniel-leone-g30P1zcOzXo-unsplash.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assets\/david-marcu-78A265wPiO4-unsplash.jpg" : {
-      "ft" : 16384,
-      "iS" : 883296,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/david-marcu-78A265wPiO4-unsplash.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assets\/guillaume-briard-lSXpV8bDeMA-unsplash.jpg" : {
-      "ft" : 16384,
-      "iS" : 3209498,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/guillaume-briard-lSXpV8bDeMA-unsplash.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
+      "oAP" : "\/build\/.gitignore",
+      "oF" : 0
     },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
@@ -68,43 +37,34 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/img\/heroes\/hero-2.jpg" : {
-      "ft" : 16384,
-      "iS" : 363485,
-      "jF" : 0,
+    "\/deploy\/img\/challenge1.gif" : {
+      "ft" : 4194304,
+      "iS" : 135303,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/heroes\/hero-2.jpg",
+      "oAP" : "\/deploy\/img\/challenge1.gif",
       "oF" : 0,
-      "oIPL" : 0,
       "opt" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/heroes\/hero.jpg" : {
-      "ft" : 16384,
-      "iS" : 129853,
-      "jF" : 0,
+    "\/deploy\/img\/challenge2.gif" : {
+      "ft" : 4194304,
+      "iS" : 360178,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/heroes\/hero.jpg",
+      "oAP" : "\/deploy\/img\/challenge2.gif",
       "oF" : 0,
-      "oIPL" : 0,
       "opt" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/hiking\/hiking.jpg" : {
-      "ft" : 16384,
-      "iS" : 656755,
-      "jF" : 0,
+    "\/deploy\/img\/challenge3.gif" : {
+      "ft" : 4194304,
+      "iS" : 185249,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/hiking\/hiking.jpg",
+      "oAP" : "\/deploy\/img\/challenge3.gif",
       "oF" : 0,
-      "oIPL" : 0,
       "opt" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
       "rq" : 75
     },
     "\/deploy\/index.html" : {
@@ -113,6 +73,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/index.html",
+      "oF" : 0
+    },
+    "\/deploy\/instructions.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/instructions.html",
       "oF" : 0
     },
     "\/deploy\/js\/scripts-min.js" : {
@@ -126,36 +94,28 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/dev\/content\/demo.kit" : {
+    "\/dev\/content\/content.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/demo.html",
+      "oAP" : "\/dev\/content\/content.html",
       "oF" : 0
     },
-    "\/dev\/content\/hero-2.kit" : {
+    "\/dev\/content\/instructions-content.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/hero-2.html",
+      "oAP" : "\/dev\/content\/instructions-content.html",
       "oF" : 0
     },
-    "\/dev\/content\/hero.kit" : {
+    "\/dev\/global\/footer.html" : {
       "cB" : 0,
-      "ft" : 2048,
+      "ft" : 8192,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/hero.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/hiking.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/hiking.html",
+      "oA" : 0,
+      "oAP" : "\/dev\/global\/footer.html",
       "oF" : 0
     },
     "\/dev\/global\/footer.kit" : {
@@ -178,7 +138,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/dev\/global\/header.html",
       "oF" : 0
     },
@@ -195,17 +155,25 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/index.html",
-      "oF" : 2
+      "oAP" : "\/dev\/index.html",
+      "oF" : 0
+    },
+    "\/dev\/instructions.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/instructions.html",
+      "oF" : 0
     },
     "\/dev\/js\/scripts.js" : {
-      "bF" : 4,
+      "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/deploy\/js\/scripts-min.js",
-      "oF" : 2,
+      "oAP" : "\/dev\/js\/scripts-min.js",
+      "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
@@ -359,7 +327,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_demo.scss" : {
+    "\/dev\/scss\/sections\/_content.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -368,52 +336,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_demo.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/sections\/_hero-2.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_hero-2.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/sections\/_hero.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_hero.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/sections\/_hiking.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_hiking.css",
+      "oAP" : "\/dev\/scss\/sections\/_content.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -428,17 +351,11 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/css\/styles.css",
-      "oF" : 2,
+      "oAP" : "\/dev\/scss\/styles.css",
+      "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
-    },
-    "\/node_modules" : {
-      "ft" : 65536,
-      "oA" : 2,
-      "oAP" : "\/node_modules",
-      "oF" : 0
     },
     "\/package-lock.json" : {
       "ft" : 524288,
@@ -455,6 +372,14 @@
       "oF" : 0,
       "oO" : 1,
       "oS" : 1
+    },
+    "\/README.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/README.html",
+      "oF" : 0
     },
     "\/README.md" : {
       "cB" : 0,
@@ -486,9 +411,9 @@
     "creationDate" : 669227926.75338697,
     "displayValue" : "Motion-S23-PM",
     "displayValueWasSetByUser" : 0,
-    "iconImageName" : "meme-doge",
-    "iconImageWasSetByUser" : 1,
-    "lastBuiltDate" : 704933814.52316499
+    "iconImageName" : "brackets-ucla",
+    "iconImageWasSetByUser" : 0,
+    "lastBuiltDate" : 704325901.50510299
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
