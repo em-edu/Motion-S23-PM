@@ -23,14 +23,13 @@ heroBtnTl.to("#trails-btn",{duration:0.25, scale:2, backgroundColor:"#881d02"}, 
 .to("#trails-btn i",{duration:0.25, rotateY:0}, "-=0.15")
 ;
 
-//button listeners
-// trailBtn.addEventListener("mouseover", function(){
-//     heroBtnTl.play();
-// })
 
 trailBtn.addEventListener("mouseover", () => {
-    console.log("hello");
-    //heroBtnTl.play();
+    heroBtnTl.play();
+});
+
+trailBtn.addEventListener("mouseout", () => {
+    heroBtnTl.reverse();
 });
 
 
