@@ -52,6 +52,10 @@ function heroAnimation(){
 //}
 //pin:"#box" or true
 
+//toggleActions: "play none none none"
+
+//keywords = play, pause, resume, reverse, restart, rest, complete, none
+
 
 function boxAnimation(){
     let tl = gsap.timeline({
@@ -59,8 +63,9 @@ function boxAnimation(){
             trigger: "#box",
             start:"center 70%",
             end:"center 10%",
+            toggleActions: "play pause none none",
             scrub:true,
-            markers:false
+            markers:true
         }});
     tl.from("#box",{duration:1, scale:2, rotation:180, x:"-=300%"})
     ;
@@ -93,7 +98,7 @@ function hero2Animation(){
             start:"top 80%",
             end:"top 40%",
             scrub:true,
-            markers:true
+            markers:false
         }});
     tl.from("#bg-img",{duration:1, clipPath:"inset(0 50%)"}, "herotwo")
     .from("#hero-2 h1",{duration:1, scale:2, alpha:0}, "herotwo")
