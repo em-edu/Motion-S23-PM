@@ -56,22 +56,32 @@ function heroAnimation(){
 
 //keywords = play, pause, resume, reverse, restart, rest, complete, none
 
+gsap.from("#box",{duration:2, scrollTrigger:{
+    trigger:"#box",
+    toggleActions:"play pause resume reverse",
+    start:"bottom 70%",
+    end:"top 30%",
+    markers:true
+    },
+    scale:2, 
+    rotation:180, 
+    x:"-=600%"});
 
-function boxAnimation(){
-    let tl = gsap.timeline({
-        scrollTrigger:{
-            trigger: "#box",
-            start:"center 70%",
-            end:"center 10%",
-            toggleActions: "play pause none none",
-            scrub:true,
-            markers:true
-        }});
-    tl.from("#box",{duration:1, scale:2, rotation:180, x:"-=300%"})
-    ;
+// function boxAnimation(){
+//     let tl = gsap.timeline({
+//         scrollTrigger:{
+//             trigger: "#box",
+//             // start:"center 70%",
+//             // end:"center 10%",
+//             toggleActions: "play pause none none",
+//             //scrub:true,
+//             markers:true
+//         }});
+//     tl.from("#box",{duration:1, scale:2, rotation:180, x:"-=300%"})
+//     ;
 
-    return tl;
-}
+//     return tl;
+// }
 
 function hikingAnimation(){
     let tl = gsap.timeline({
@@ -115,7 +125,7 @@ function hero2Animation(){
 
 let mainTl = gsap.timeline();
 mainTl.add(heroAnimation())
-    .add(boxAnimation())
+    //.add(boxAnimation())
     .add(hikingAnimation())
     .add(hero2Animation())
 

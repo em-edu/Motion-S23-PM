@@ -25,7 +25,7 @@
       "oAP" : "\/assets\/daniel-leone-g30P1zcOzXo-unsplash.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -38,7 +38,7 @@
       "oAP" : "\/assets\/david-marcu-78A265wPiO4-unsplash.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -51,7 +51,7 @@
       "oAP" : "\/assets\/guillaume-briard-lSXpV8bDeMA-unsplash.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -96,7 +96,7 @@
       "oAP" : "\/deploy\/img\/heroes\/hero-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -109,7 +109,7 @@
       "oAP" : "\/deploy\/img\/heroes\/hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -122,7 +122,7 @@
       "oAP" : "\/deploy\/img\/hiking\/hiking.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -552,7 +552,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-ucla",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 704325901.50510299
+    "lastBuiltDate" : 705365062.62587702
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
