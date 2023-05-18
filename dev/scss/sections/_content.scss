@@ -1,15 +1,15 @@
-#logo{
+#content{
     display: grid;
     grid-template-columns: auto 50% auto;
     grid-template-areas: 
     ". . ."
-    ". logo ."
+    ". content ."
     ". . .";
     grid-template-rows: 20% auto 20%;
     height: 100vh;
 
     >div{
-        grid-area: logo;
+        grid-area: content;
         display: flex;
         justify-content: center;
         align-items: center;

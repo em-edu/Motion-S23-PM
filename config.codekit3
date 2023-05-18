@@ -68,12 +68,12 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/dev\/content\/logo.kit" : {
+    "\/dev\/content\/content.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/logo.html",
+      "oAP" : "\/dev\/content\/content.html",
       "oF" : 0
     },
     "\/dev\/global\/head.kit" : {
@@ -261,7 +261,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_logo.scss" : {
+    "\/dev\/scss\/sections\/_content.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -270,7 +270,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_logo.css",
+      "oAP" : "\/dev\/scss\/sections\/_content.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
